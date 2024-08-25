@@ -58,3 +58,23 @@ int main(){
   
   return 0;
 }
+
+
+
+
+OUTPUT :
+
+Car 1 information:
+Brand: koenigsegg
+Model: Agera
+Type: Sports
+Top Speed: 443 km/hr
+Mileage: 7 km/ltr
+Price: 4.75 million USD
+
+Car 2 information:Brand: Mercedes
+Model: G wagon
+Type: SUV
+Top Speed: 220 km/hr
+Mileage: 9 km/ltr
+Price: 1 million USD
